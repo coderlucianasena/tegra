@@ -6,7 +6,7 @@ body {
   }
 
   .container-logo {
-    /* background-color: #494843; */
+    background-color: #080808;
     text-align: center;
     position: relative;
     z-index: 1;
@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 58px;
-    height: 48px;
+    height: 50px;
     align-items: center;
   }
 
@@ -44,13 +44,7 @@ body {
   #table {
     color: white;
   }
-  
-  #pagina-tattoo {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    padding: 80px 0;
-  }
+
 
   #titulo-pagina {
     margin-top: 80px;
@@ -78,6 +72,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
   }
 
   #borda {
@@ -98,6 +93,7 @@ body {
     font-weight: 500;
     font-size: 20px;
   }
+  
   #banner-down h2 {
     font-weight: 700;
     font-size: 55px;
